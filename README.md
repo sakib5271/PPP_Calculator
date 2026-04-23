@@ -11,10 +11,6 @@ A desktop application for calculating Purchasing Power Parity (PPP) equivalents 
 - **Comprehensive Country Coverage**: Includes PPP data for over 50 countries worldwide.
 - **Data Transparency**: All PPP factors are sourced from the IMF and stored in an easily updatable JSON file.
 
-## Screenshots
-
-*(Add screenshots here if available)*
-
 ## Installation
 
 ### Prerequisites
