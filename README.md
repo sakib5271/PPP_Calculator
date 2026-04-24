@@ -47,10 +47,10 @@ A desktop application for calculating Purchasing Power Parity (PPP) equivalents 
 
 ### Example
 
-If you earn $50,000 USD annually in the United States and want to know the equivalent in BD:
+If you earn $10,000 USD annually in the United States and want to know the equivalent in BD:
 - Source: United States, Salary: 50000, Yearly
 - Target: Bangladesh
-- Result: Approximately 2,876,500 BDT (based on current PPP rates)
+- Result: Approximately 876,500 BDT (based on current PPP rates)
 
 ## Data Source
 
